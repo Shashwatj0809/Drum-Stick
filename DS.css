@@ -1,0 +1,121 @@
+body{
+   background-image: url(images/blue\ bcgr.jpeg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-blend-mode: lighten;
+   
+   text-align: center;
+
+}
+.DrumHeading{
+    font-size: 3rem;
+    text-shadow: 2px 2px red;
+    
+}
+img.Himg{
+    height: 70px;
+    width: 70px;
+    border-radius: 20%;
+}
+.adrum{
+    background-image:url("images/crash.png");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height:4rem;
+    width: 4rem;
+    border-radius:20%;
+    margin-right: 20px;
+
+}
+.wdrum{
+    background:url(images/tom4.png);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height:4rem;
+    width: 4rem;
+    border-radius:20%;
+    margin-right: 20px;
+
+
+}
+.sdrum{
+    background: url("images/kick.png");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height:4rem;
+    width: 4rem;
+    border-radius:20%;
+    margin-right: 20px;
+
+
+}
+.ddrum{
+    background:url(images/snare.png);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height:4rem;
+    width: 4rem;
+    border-radius:20%;
+    margin-right: 20px;
+
+
+}
+.jdrum{
+    background:url(images/tom1.png);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height:4rem;
+    width: 4rem;
+    border-radius:20%;
+    margin-right: 20px;
+
+
+}
+.kdrum{
+    background:url(images/tom2.png);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height:4rem;
+    width: 4rem;
+    border-radius:20%;
+    margin-right: 20px;
+
+
+}
+.ldrum{
+    background:url(images/tom3.png);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height:4rem;
+    width: 4rem;
+    border-radius:20%;
+    margin-right: 20px;
+
+
+}
+footer{
+    margin: 80px;
+}
+.btnDrum{
+    display:flex;
+    background-color: aliceblue;
+    min-height:100px;
+    width:60%;
+    align-items: center;
+    justify-content:center ;
+    border-radius:20%;
+    flex-wrap: wrap;
+    background-color: #EBDADA;
+}
+.container{
+    display:flex;
+    justify-content: center;
+}
